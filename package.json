@@ -1,0 +1,16 @@
+{
+  "name": "@hyperingenuity/access-control",
+  "version": "0.0.1",
+  "description": "Allow / Deny based Access Control",
+  "main": "index.js",
+  "repository": "git@github.com:mdbarr/access-control",
+  "author": "Mark Barr <mark@hyperingenuity.com>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "eslint": "^7.6.0"
+  },
+  "scripts": {
+    "lint": "eslint index.js"
+  }
+}
